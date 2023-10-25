@@ -43,7 +43,7 @@ int main()
         	{
         		cout<<"Can't divide by zero!"<<endl;
         		break;
-			}
+		}
         	else
         	{
                D = num1 / num2;
